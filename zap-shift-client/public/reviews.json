@@ -1,0 +1,64 @@
+
+
+[
+  {
+    "name": "Awlad Hossain",
+    "role": "Senior Product Designer",
+    "comment": "A posture corrector works by providing support and alignment to your back and spine, encouraging proper posture throughout the day.",
+    "img": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "name": "Fahmida Akter",
+    "role": "UI/UX Enthusiast",
+    "comment": "The service exceeded my expectations. Clean interface, fast performance, and very user-friendly. Loved it!",
+    "img": "https://i.pravatar.cc/150?img=32"
+  },
+  {
+    "name": "Rahim Uddin",
+    "role": "Full Stack Developer",
+    "comment": "Really impressed by how smooth and intuitive everything feels. Highly recommended for daily productivity.",
+    "img": "https://i.pravatar.cc/150?img=14"
+  },
+  {
+    "name": "Nusrat Jahan",
+    "role": "Digital Marketer",
+    "comment": "The design is modern and appealing. It helped me stay more organized and efficient throughout work hours.",
+    "img": "https://i.pravatar.cc/150?img=25"
+  },
+  {
+    "name": "Ismail Khan",
+    "role": "Business Analyst",
+    "comment": "Great tool for improving workflow. Simple but powerful. I really appreciate the attention to detail.",
+    "img": "https://i.pravatar.cc/150?img=17"
+  },
+  {
+    "name": "Riya Choudhury",
+    "role": "Content Creator",
+    "comment": "Absolutely loved the experience! It saved me a lot of time and helped me stay focused.",
+    "img": "https://i.pravatar.cc/150?img=30"
+  },
+  {
+    "name": "Jubayer Ahmed",
+    "role": "Software Engineer",
+    "comment": "The performance is top-notch. Clean, fast, and super responsive. Definitely worth using every day.",
+    "img": "https://i.pravatar.cc/150?img=28"
+  },
+  {
+    "name": "Mim Sultana",
+    "role": "Graphic Designer",
+    "comment": "The UI feels very polished and professional. It's both elegant and easy to navigate.",
+    "img": "https://i.pravatar.cc/150?img=22"
+  },
+  {
+    "name": "Khalid Hasan",
+    "role": "Data Scientist",
+    "comment": "Loved the thoughtful design choices. Streamlined and extremely efficient for regular tasks.",
+    "img": "https://i.pravatar.cc/150?img=47"
+  },
+  {
+    "name": "Shila Tabassum",
+    "role": "Project Manager",
+    "comment": "Helps me manage time better. The layout is clean and the features are very practical.",
+    "img": "https://i.pravatar.cc/150?img=31"
+  }
+]
